@@ -1,0 +1,4 @@
+### Create a new habit
+### Get all habits for user
+GET http://127.0.0.1:8000/api/habits
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZmNmZjgyYjRjY2ZlNmRiNTI4OTBmYyIsImlhdCI6MTc2MTQxMjE3NCwiZXhwIjoxNzYxNDk4NTc0fQ.mj-mbUgkXlwjCAfBpjl_DvO3lSlskWYQVtraaPTVu3Y
